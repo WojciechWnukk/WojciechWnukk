@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WojciechWnukk
 - 👀 I'm currently looking for an internship
-- 🌱 I'm a 3rd year student of computer science at Lublin University of Technology
+- 🌱 am a 7th semester student of computer science at Lublin University of Technology
 - 📫 How to reach me wojciech.wnukk@gmail.com
 - 🔭 I’m currently working on [RestaurantPage](https://github.com/WojciechWnukk/RestaurantPage)
 <!---
