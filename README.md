@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WojciechWnukk
-- 👀 I'm currently looking for an internship
+- 👀 I'm currently looking for a job in IT
 - 🌱 am a 7th semester student of computer science at Lublin University of Technology
 - 📫 How to reach me wojciech.wnukk@gmail.com
-- 🔭 I’m currently working on [RestaurantPage](https://github.com/WojciechWnukk/RestaurantPage)
+- 🔭 I’m currently working on [Multiplayer Game](https://github.com/WojciechWnukk/multiplayerGame)
 <!---
 WojciechWnukk/WojciechWnukk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
