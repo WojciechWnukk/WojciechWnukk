@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WojciechWnukk
 - 👀 I'm Junior Full Stack Developer PHP + Vue.js and...
-- 🌱 ... 7th semester student of computer science at Lublin University of Technology
+- 🌱 ...engineer of computer science at Lublin University of Technology
 - 📫 How to reach me wojciech.wnukk@gmail.com
 - 🔭 I’m currently working on [Multiplayer Game](https://github.com/WojciechWnukk/multiplayerGame)
 <!---
